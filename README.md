@@ -191,13 +191,6 @@ A QR-based system for student registration and attendance management.
 <img src="https://komarev.com/ghpvc/?username=Ashansa-Udani&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge">
 
 <br><br>
-
-### 🚀 Contributions
-
-![GitHub Contribution Graph](https://github.com/Ashansa-Udani.png)
-
-</div>
-
 ---
 
 # 🎯 GitHub Goals
