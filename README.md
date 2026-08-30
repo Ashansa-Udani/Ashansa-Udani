@@ -180,25 +180,39 @@ A QR-based system for student registration and attendance management.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ashansa-Udani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
+### 👩‍💻 GitHub Profile
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashansa-Udani&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<a href="https://github.com/Ashansa-Udani">
+<img src="https://img.shields.io/badge/GitHub-Ashansa--Udani-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=Ashansa-Udani&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://komarev.com/ghpvc/?username=Ashansa-Udani&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge">
+
+<br><br>
+
+### 🚀 Contributions
+
+![GitHub Contribution Graph](https://github.com/Ashansa-Udani.png)
 
 </div>
 
 ---
 
-# 📈 GitHub Activity
+# 🎯 GitHub Goals
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashansa-Udani&theme=tokyo-night&hide_border=true" width="100%" />
+| 💻 Software Development | 🤖 Artificial Intelligence |
+|---|---|
+| 🧠 Machine Learning | 🔬 Research & Innovation |
+| 🌐 Web Development | 📊 Data Analytics |
+| 🎓 IT Education | 🚀 Continuous Learning |
 
 </div>
+
+---
 
 
 
